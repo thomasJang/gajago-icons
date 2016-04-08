@@ -1,0 +1,15 @@
+{
+	"name": "gajago-icons",
+	"version": "0.0.1",
+	"description": "",
+	"authors": [
+		"ThomasJ <tom@axisj.com>"
+	],
+	"keywords": [
+
+	],
+	"dependencies": {
+	},
+	"license": "http://www.apache.org/licenses/LICENSE-2.0",
+	"homepage": ""
+}

@@ -1,0 +1,20 @@
+{
+	"name": "gajago-icons",
+	"version": "0.0.1",
+	"description": "",
+	"license": "http://www.apache.org/licenses/LICENSE-2.0",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/thomasJang/gajago-icons"
+	},
+	"author": {
+		"name": "Thomas Jang",
+		"email": "tom@axisj.com",
+	},
+	"keywords": [
+
+	],
+	"dependencies": {
+
+	}
+}
