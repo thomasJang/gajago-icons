@@ -5770,10 +5770,11 @@
 			"embed": true,
 			"cssVars": true,
 			"showSelector": true,
-			"selector": "i",
+			"selector": "class",
 			"showMetrics": true,
 			"showMetadata": true,
-			"showVersion": true
+			"showVersion": true,
+			"classSelector": ".gi"
 		},
 		"imagePref": {
 			"prefix": "icon-",
